@@ -1,2 +1,5 @@
 # ng-bitwise-enum
-packed as AngularJS service and filter
+Bitwise toggler with enum options packed as AngularJS service and filter
+
+## Common use
+
